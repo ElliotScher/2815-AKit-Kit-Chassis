@@ -49,7 +49,7 @@ public class LocalADStarAK implements Pathfinder {
     if (!Logger.hasReplaySource()) {
       io.adStar.setStartPosition(startPosition);
     }
-    }
+  }
 
   @Override
   public void setGoalPosition(Translation2d goalPosition) {

@@ -14,7 +14,7 @@
 package frc.robot;
 
 public final class Constants {
-  public static final Mode currentMode = Mode.SIM;
+  public static final Mode currentMode = Mode.REAL;
 
   public static enum Mode {
     REAL,
